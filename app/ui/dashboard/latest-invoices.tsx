@@ -60,3 +60,4 @@ export default async function LatestInvoices() { // Remove props
     </div>
   );
 }
+}
