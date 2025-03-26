@@ -1,2 +1,0 @@
-# nextjsDash
-NextJS dashboard tutorial
